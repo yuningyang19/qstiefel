@@ -1,6 +1,6 @@
 # The qstiefel package
 
-The qstiefel package is a publicly available (https://gitee.com/wwwyyyying/qstiefel) MATLAB package for Riemannian optimization over the quaternion Stiefel manifold and follows the style of the well-known Manopt package. The files in the qstiefel package are listed as follows:
+The qstiefel package is a publicly available (https://github.com/yuningyang19/qstiefel) MATLAB package for Riemannian optimization over the quaternion Stiefel manifold and follows the style of the well-known Manopt package. The files in the qstiefel package are listed as follows:
 - stiefelquaternionfactory.m
 
  This is the main file in the package. It follows the style of Manopt and gives codes for Riemaniann optimization tools over the quaternion Stiefel manifold, including Riemannian metric, Riemannian norm, tangent space projector, Riemannian gradient, Riemannian Hessian, exponential map, retractions (qr, polar, and Cayley retractions), transporter, and so on. 
